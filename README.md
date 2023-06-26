@@ -16,15 +16,15 @@ Greetings! I am an experienced data scientist with a passion for uncovering insi
 
 
 
-* **Machine Learning / Deep Learning :  Classification, Regression, Clustering, Time Series, Recommender system and Neural Network
-* **Algorithms : Linear Regression, Logistic Regression, Naive Bayes, KNN, SVM, Decision Tree, Random forest, Ensemble models, Time Series Analysis, Clustering, Recommender System, ANN, CNN, RNN, LSTM, Encoder-Decoder, Bert.
-* **Platforms .: Anaconda, Jupyter Notebook, Spyder IDE,, Visual Studio, Anaconda, Python, Windows, Linux.
-* **Libraries : Pandas, NumPy, NLTK, scikit-learn, TensorFlow, Keras, pyspark.
-* **Data Visualization: Seaborn and Matplotlib, Tableau.
-* **Data Collection and Storage: SQL, MySQL 
-* **Mathematical Skills :Probability and Statistics
-* **Development : Git, Linux, Dataiku, Docker
-* **Deployment: Flask, Heroku, AWS, Azure.
+* Machine Learning / Deep Learning :  Classification, Regression, Clustering, Time Series, Recommender system and Neural Network
+* Algorithms : Linear Regression, Logistic Regression, Naive Bayes, KNN, SVM, Decision Tree, Random forest, Ensemble models, Time Series Analysis, Clustering, Recommender System, ANN, CNN, RNN, LSTM, Encoder-Decoder, Bert.
+* Platforms .: Anaconda, Jupyter Notebook, Spyder IDE,, Visual Studio, Anaconda, Python, Windows, Linux.
+* Libraries : Pandas, NumPy, NLTK, scikit-learn, TensorFlow, Keras, pyspark.
+* Data Visualization: Seaborn and Matplotlib, Tableau.
+* Data Collection and Storage: SQL, MySQL 
+* Mathematical Skills :Probability and Statistics
+* Development : Git, Linux, Dataiku, Docker
+* Deployment: Flask, Heroku, AWS, Azure.
 
 ## Data Science Projects
 
@@ -37,15 +37,11 @@ Greetings! I am an experienced data scientist with a passion for uncovering insi
 * ### [Heart_Disease-Classification_problem](https://github.com/Rakib-data-scientist/Heart_Disease-Classification_problem)
 
     A project that makes a data analysis and creates a model for classification of cardiovascular disease.
-	
-	A healthcare company that specializes in detecting heart disease in the early stages. Its business model is service type, that is, the company offers an early diagnosis of cardiovascular disease for a certain price.
-
 	Currently, the diagnosis of cardiovascular disease is made manually by a team of specialists. The current accuracy of the diagnosis varies between 55% and 65%, due to the complexity of the diagnosis and also the fatigue of the team who take turns to minimize the risks.The cost of each diagnosis, including equipment and analysts' payroll, is around $ 1,000.00.
 
 * ### [customer_segmentation_clustering-problem](https://github.com/Rakib-data-scientist/customer_segmentation_clustering-problem/tree/main)
 
     Objective : In this project, we will analyze a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for internal structure. One goal of this project is to best describe the variation in the different types of customers that a wholesale distributor interacts with. Doing so would equip the distributor with insight into how to best structure their delivery service to meet the needs of each customer.
-	
 	Context : Unsupervised Learning
 	Content : The dataset for this project can be found on the UCI Machine Learning Repository.
 
@@ -62,11 +58,7 @@ Time series are widely used for non-stationary data, like economic, weather, sto
 
 * ### [Annual Recycled Energy](https://github.com/Rakib-data-scientist/Annual-Recycled-Energy-Data_Analysis)
 
-    Learn how much Singapore is saving energy per years by recycling plastics, paper, glass, ferrous and non-ferrous metal.
-
 	In this project, we will clean our data and prepares for data analysis. We will be using Singapore NEA Energy Savings | Kaggle data to analyze the total garbage collection and recycling rate. The material names are different as these data were collected from different resources. We will be added the latest data of 2020 waste-statistics-and-overall-recycling from the website so that we can have the latest statics analysis. We will be finding how much energy we can produce using Greentumble key information.
-
-	We will be using Recycling statistics to calculate energy saved every year from 2003 to 2020 based on five waste types, plastics, paper, glass, ferrous and non-ferrous metal.
 
 ## Blog Posts
 
