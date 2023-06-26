@@ -30,8 +30,8 @@ Greetings! I am an experienced data scientist with a passion for uncovering insi
 * ### [Second_hand_car_price_prediction-Regression_problem](https://github.com/Rakib-data-scientist/Second_hand_car_price_prediction-Regression_problem)
 
   Objective : As a data scientist the objective is to predict the car price of used vehicles listings from Craigslist.org
-Context : Craigslist is the world's largest collection of used vehicles for sale
-Content : This is a Kaggle dataset which can be found in this link: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+  Context : Craigslist is the world's largest collection of used vehicles for sale
+  Content : This is a Kaggle dataset which can be found in this link: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 * ### [Heart_Disease-Classification_problem](https://github.com/Rakib-data-scientist/Heart_Disease-Classification_problem)
 
