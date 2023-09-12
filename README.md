@@ -7,6 +7,10 @@
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.medium.com/@rakib091998)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:rakib.ai.ds@gmail.com)](mailto:rakib.ai.ds@gmail.com)&nbsp;&nbsp;
+<a href="https://twitter.com/https://twitter.com/rakibaids" target="blank"><img align="center" 
+alt="https://twitter.com/rakibaids" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakib-ansari-736938290/" target="blank"><img align="center" alt="https://www.linkedin.com/in/rakib-ansari-736938290/" height="30" width="40" /></a>
+
 
 </div>
 
