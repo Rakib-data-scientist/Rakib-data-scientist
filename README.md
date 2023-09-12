@@ -84,6 +84,15 @@ Time series are widely used for non-stationary data, like economic, weather, sto
 
     In the post "STATISTICS FOR DATA SCIENCE", I wrote about statistics that is the bedrock of data science. It equips us with the tools and methods to extract insights, test hypotheses, and draw meaningful conclusions from data. Through this blog, we have explored key statistical concepts and techniques that are vital for any data scientist's toolkit.
 
-* ### [GENETIC ALGORITHM](https://medium.com/analytics-vidhya/genetic-algorithm-494ac5be18bb)
+* ### [ECOM GPT](...)
 
-    Genetic Algorithms offer a remarkable approach to problem-solving and optimization by mimicking the process of natural selection and evolution. Their ability to efficiently explore vast solution spaces and adapt to changing conditions makes them a valuable tool in the realm of data science, optimization, and machine learning
+    The use of natural language processing (NLP) and deep learning (DL) has revolutionized many industries, including E-commerce. However, the complex structure of E-commerce data requires a language model tailored specifically for this domain. presenting EcomGPT, an instruction-following large language model (LLM) built using the EcomInstruct dataset, which combines atomic tasks and expert-written instruction schemas to enhance the generalization capability of
+LLMs on E-commerce tasks.
+
+* ### [DISC-MedLLM](...)
+
+    Telemedicine has revolutionized healthcare services, broadening access to professionals, reducing medical costs, and allowing remote consultations. The proposed DISC-MedLLM leverages Large Language Models (LLMs) to provide accurate and truthful medical responses in end-to-end conversational healthcare services. The model surpasses existing medical LLMs in both single-turn and multi-turn consultation scenarios.
+
+* ### [Face Chain](...)
+
+  FaceChain is an open-source framework that generates personalized portraits with only a few input images. It utilizes customized image-generation models and a suite of face-related perceptual understanding models to create truthful, high-quality portraits while retaining individual identity.
