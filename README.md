@@ -20,6 +20,7 @@ Greetings! I am an experienced data scientist with a passion for uncovering insi
 
 
 * Machine Learning / Deep Learning :  Classification, Regression, Clustering, Time Series, Recommender system and Neural Network
+* Exploring Generative AI, Langchain, LLM, Llama2, Falcon etc.
 * Algorithms : Linear Regression, Logistic Regression, Naive Bayes, KNN, SVM, Decision Tree, Random forest, Ensemble models, Time Series Analysis, Clustering, Recommender System, ANN, CNN, RNN, LSTM, Encoder-Decoder, Bert.
 * Platforms .: Anaconda, Jupyter Notebook, Spyder IDE,, Visual Studio, Anaconda, Python, Windows, Linux.
 * Libraries : Pandas, NumPy, NLTK, scikit-learn, TensorFlow, Keras, pyspark.
