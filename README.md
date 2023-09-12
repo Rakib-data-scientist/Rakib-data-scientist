@@ -32,7 +32,7 @@ Greetings! I am an experienced data scientist with a passion for uncovering insi
 
 ## Generative AI Projects
 
-* ### [Toy search app](https://github.com/Rakib-data-scientist/Toy-Search-App)
+* ### [GenAI-Recommender Bot](https://github.com/Rakib-data-scientist/GenAI-Recommeder-App)
 
     A LLM bot that is trained on custom toy data, you can search for a toy in its UI and it will provide recommended toy.
     Basically it show the capapbility of bot to search the similar item and recommend you.
