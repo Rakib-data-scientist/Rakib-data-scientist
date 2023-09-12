@@ -7,14 +7,14 @@
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.medium.com/@rakib091998)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:rakib.ai.ds@gmail.com)](mailto:rakib.ai.ds@gmail.com)&nbsp;&nbsp;
-
-
+<a href="https://www.linkedin.com/in/rakib-ansari-736938290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://twitter.com/Rakibaids" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 
 </div>
 
 <br>
 
-Greetings! I am an experienced data scientist with a passion for uncovering insights and driving impactful decisions through data analysis. With over two years of practical experience in the field, I have honed my skills in various aspects of data science, from data wrangling and exploration to modeling and interpretation.
+Greetings! I am an experienced data scientist with a passion for uncovering insights and driving impactful decisions through data analysis. With over 2+ years of practical experience in the field, I have honed my skills in various aspects of data science, from data wrangling and exploration to modeling and interpretation.
 
 
 
@@ -27,6 +27,21 @@ Greetings! I am an experienced data scientist with a passion for uncovering insi
 * Mathematical Skills :Probability and Statistics
 * Development : Git, Linux, Dataiku, Docker
 * Deployment: Flask, Heroku, AWS, Azure.
+
+## Generative AI Projects
+
+* ### [Toy search app](https://github.com/Rakib-data-scientist/Toy-Search-App)
+
+    A LLM bot that is trained on custom toy data, you can search for a toy in its UI and it will provide recommended toy.
+    Basically it show the capapbility of bot to search the similar item and recommend you.
+
+* ### [GenAI-Webdesign](https://github.com/Rakib-data-scientist/GenAI-Webdesign)
+
+    A LLM bot that takes hand-drawn UI and can convert it into website/webdesign and also provides code.
+
+* ### [ChatWeb](https://github.com/Rakib-data-scientist/ChatWeb)
+
+    A LLM bot that takes an URL and a question as input and provide the result.
 
 ## Data Science Projects
 
