@@ -5,8 +5,9 @@
 <div align="center">
 
 
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.medium.com/@rakib091998)&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:rakib.ai.ds@gmail.com)](mailto:rakib.ai.ds@gmail.com)&nbsp;&nbsp;
+
+<a href="https://www.medium.com/@rakib091998" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="medium"></a>
+<a href="mailto:rakib.ai.ds@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
 <a href="https://www.linkedin.com/in/rakib-ansari-736938290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://twitter.com/Rakibaids" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 
