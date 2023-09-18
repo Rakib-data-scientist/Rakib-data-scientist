@@ -85,15 +85,15 @@ Time series are widely used for non-stationary data, like economic, weather, sto
 
     In the post "STATISTICS FOR DATA SCIENCE", I wrote about statistics that is the bedrock of data science. It equips us with the tools and methods to extract insights, test hypotheses, and draw meaningful conclusions from data. Through this blog, we have explored key statistical concepts and techniques that are vital for any data scientist's toolkit.
 
-* ### [ECOM GPT](https://medium.com/@rakib.ai.ds/ecomgpt-f58f36e5be25)
+* ### [ECOM GPT](https://medium.com/@rakib.ai.ds/98e93b2a6dae?source=friends_link&sk=8ab355d6ddbcc2713676d9463ee1ca0b)
 
     The use of natural language processing (NLP) and deep learning (DL) has revolutionized many industries, including E-commerce. However, the complex structure of E-commerce data requires a language model tailored specifically for this domain. presenting EcomGPT, an instruction-following large language model (LLM) built using the EcomInstruct dataset, which combines atomic tasks and expert-written instruction schemas to enhance the generalization capability of
 LLMs on E-commerce tasks.
 
-* ### [DISC-MedLLM](https://medium.com/@rakib.ai.ds/disc-medllm-f91e848a068c)
+* ### [DISC-MedLLM](https://medium.com/@rakib.ai.ds/303489f793fa?source=friends_link&sk=6814879426b3d9f13312e28cf39febea)
 
     Telemedicine has revolutionized healthcare services, broadening access to professionals, reducing medical costs, and allowing remote consultations. The proposed DISC-MedLLM leverages Large Language Models (LLMs) to provide accurate and truthful medical responses in end-to-end conversational healthcare services. The model surpasses existing medical LLMs in both single-turn and multi-turn consultation scenarios.
 
-* ### [Face Chain](https://medium.com/@rakib.ai.ds/facechain-1aed97808108)
+* ### [Face Chain](https://medium.com/@rakib.ai.ds/3130932c7506?source=friends_link&sk=7f8133656619420fee89e79b7ad204d7)
 
   FaceChain is an open-source framework that generates personalized portraits with only a few input images. It utilizes customized image-generation models and a suite of face-related perceptual understanding models to create truthful, high-quality portraits while retaining individual identity.
