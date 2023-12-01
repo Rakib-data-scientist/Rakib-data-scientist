@@ -15,7 +15,7 @@
 
 <br>
 
-Greetings! I am an experienced data scientist with a passion for uncovering insights and driving impactful decisions through data analysis. With over 2+ years of practical experience in the field, I have honed my skills in various aspects of data science, from data wrangling and exploration to modeling and interpretation.
+Greetings! I am an experienced data scientist with a passion for uncovering insights and driving impactful decisions through data analysis. With over 2.5 years of practical experience in the field, I have honed my skills in various aspects of data science, from data wrangling and exploration to modeling and interpretation.
 
 
 
